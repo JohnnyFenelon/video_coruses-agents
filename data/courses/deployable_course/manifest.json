@@ -1,0 +1,29 @@
+{
+  "title": "Deployable Course",
+  "topic": "Web development basics",
+  "audience": "beginners",
+  "difficulty": "beginner",
+  "learning_objectives": [
+    "Understand the core concepts of Web development basics"
+  ],
+  "prerequisites": [
+    "Basic familiarity with the subject"
+  ],
+  "estimated_duration_hours": 4,
+  "pedagogical_approach": "Structured, beginner-friendly explanation with practical examples",
+  "modules": [
+    {
+      "slug": "intro",
+      "title": "Intro",
+      "status": "generated",
+      "files": [
+        "lesson_plan.json",
+        "script.md",
+        "quiz.json"
+      ]
+    }
+  ],
+  "generated_at": "2026-07-05T11:31:30.875898",
+  "lms_ready": true,
+  "format_version": "1.0"
+}

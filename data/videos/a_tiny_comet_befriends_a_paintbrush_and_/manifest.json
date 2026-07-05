@@ -1,0 +1,27 @@
+{
+  "title": "Test Story",
+  "style": "cinematic_realism",
+  "logline": "A short test",
+  "duration_seconds": 5,
+  "shots_count": 5,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "Workshop",
+      "time_of_day": "night",
+      "summary": "Intro",
+      "dialogue": "...",
+      "emotional_beat": "hope",
+      "duration_seconds": 5
+    }
+  ],
+  "characters": [
+    {
+      "name": "Leo",
+      "description": "A child"
+    }
+  ],
+  "generated_at": "2026-07-05T15:40:33.258199",
+  "format_version": "2.0",
+  "status": "prompts_ready"
+}

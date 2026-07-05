@@ -1,0 +1,49 @@
+{
+  "title": "Early Math",
+  "topic": "Counting in orders",
+  "audience": "beginners",
+  "difficulty": "beginner",
+  "learning_objectives": [
+    "Understand the core concepts of Counting in orders"
+  ],
+  "prerequisites": [
+    "Basic familiarity with the subject"
+  ],
+  "estimated_duration_hours": 4,
+  "pedagogical_approach": "Structured, beginner-friendly explanation with practical examples",
+  "modules": [
+    {
+      "slug": "intro",
+      "title": "Introduction to Counting in orders",
+      "status": "generated",
+      "files": [
+        "lesson_plan.json",
+        "script.md",
+        "quiz.json"
+      ]
+    },
+    {
+      "slug": "applications",
+      "title": "Practical Applications of Counting in orders",
+      "status": "generated",
+      "files": [
+        "lesson_plan.json",
+        "script.md",
+        "quiz.json"
+      ]
+    },
+    {
+      "slug": "project",
+      "title": "Project-Based Learning for Counting in orders",
+      "status": "generated",
+      "files": [
+        "lesson_plan.json",
+        "script.md",
+        "quiz.json"
+      ]
+    }
+  ],
+  "generated_at": "2026-07-05T11:12:29.618199",
+  "lms_ready": true,
+  "format_version": "1.0"
+}

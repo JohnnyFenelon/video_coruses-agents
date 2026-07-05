@@ -1,0 +1,26 @@
+{
+  "api_keys": {
+    "openai": "",
+    "google": "",
+    "glm": "",
+    "qwen": "",
+    "claude": "",
+    "pruna": "",
+    "stable_diffusion": ""
+  },
+  "preferences": {
+    "default_llm": "qwen",
+    "default_video_engine": "pruna",
+    "output_dir": "data",
+    "log_level": "INFO"
+  },
+  "cron_jobs": [],
+  "provider_configs": {
+    "custom_qwen": {
+      "endpoint_url": "http://162.35.163.67:11435",
+      "username": "qwen_coder",
+      "model": "qwen2.5:7b",
+      "password": "Z79EdlAQJRvvkaIk"
+    }
+  }
+}

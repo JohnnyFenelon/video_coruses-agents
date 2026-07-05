@@ -1,0 +1,19 @@
+{
+  "module_title": "Intro",
+  "duration_minutes": 45,
+  "sections": [
+    {
+      "title": "Introduction",
+      "duration_minutes": 15,
+      "key_points": [
+        "Overview of React fundamentals"
+      ]
+    }
+  ],
+  "activities": [
+    "Review the main concepts"
+  ],
+  "resources": [
+    "https://example.com/reference"
+  ]
+}

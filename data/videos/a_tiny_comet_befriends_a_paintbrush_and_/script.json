@@ -1,0 +1,23 @@
+{
+  "title": "Test Story",
+  "logline": "A short test",
+  "style": "cinematic_realism",
+  "characters": [
+    {
+      "name": "Leo",
+      "description": "A child"
+    }
+  ],
+  "scenes": [
+    {
+      "scene_number": 1,
+      "location": "Workshop",
+      "time_of_day": "night",
+      "summary": "Intro",
+      "dialogue": "...",
+      "emotional_beat": "hope",
+      "duration_seconds": 5
+    }
+  ],
+  "duration_estimate_seconds": 60
+}

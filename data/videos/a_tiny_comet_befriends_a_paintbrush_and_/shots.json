@@ -1,0 +1,47 @@
+[
+  {
+    "shot_id": 1,
+    "scene": 1,
+    "second": 1,
+    "camera_angle": "medium",
+    "lighting": "natural",
+    "action_description": "Leo paints",
+    "prompt": "paint prompt"
+  },
+  {
+    "shot_id": 1,
+    "scene": 1,
+    "second": 1,
+    "camera_angle": "medium",
+    "lighting": "natural",
+    "action_description": "Leo paints",
+    "prompt": "paint prompt"
+  },
+  {
+    "shot_id": 1,
+    "scene": 1,
+    "second": 1,
+    "camera_angle": "medium",
+    "lighting": "natural",
+    "action_description": "Leo paints",
+    "prompt": "paint prompt"
+  },
+  {
+    "shot_id": 1,
+    "scene": 1,
+    "second": 1,
+    "camera_angle": "medium",
+    "lighting": "natural",
+    "action_description": "Leo paints",
+    "prompt": "paint prompt"
+  },
+  {
+    "shot_id": 1,
+    "scene": 1,
+    "second": 1,
+    "camera_angle": "medium",
+    "lighting": "natural",
+    "action_description": "Leo paints",
+    "prompt": "paint prompt"
+  }
+]

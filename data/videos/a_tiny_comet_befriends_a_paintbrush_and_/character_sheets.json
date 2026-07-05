@@ -1,0 +1,15 @@
+[
+  {
+    "character_name": "Leo",
+    "style": "cinematic_realism",
+    "front_view_prompt": "front",
+    "side_view_prompt": "side",
+    "back_view_prompt": "back",
+    "expression_prompts": {
+      "happy": "..."
+    },
+    "consistency_keywords": [
+      "bright"
+    ]
+  }
+]

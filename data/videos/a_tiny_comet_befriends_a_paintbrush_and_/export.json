@@ -1,0 +1,173 @@
+{
+  "manifest": {
+    "title": "Test Story",
+    "style": "cinematic_realism",
+    "logline": "A short test",
+    "duration_seconds": 5,
+    "shots_count": 5,
+    "scenes": [
+      {
+        "scene_number": 1,
+        "location": "Workshop",
+        "time_of_day": "night",
+        "summary": "Intro",
+        "dialogue": "...",
+        "emotional_beat": "hope",
+        "duration_seconds": 5
+      }
+    ],
+    "characters": [
+      {
+        "name": "Leo",
+        "description": "A child"
+      }
+    ],
+    "generated_at": "2026-07-05T15:40:33.258199",
+    "format_version": "2.0",
+    "status": "prompts_ready"
+  },
+  "script": {
+    "title": "Test Story",
+    "logline": "A short test",
+    "style": "cinematic_realism",
+    "characters": [
+      {
+        "name": "Leo",
+        "description": "A child"
+      }
+    ],
+    "scenes": [
+      {
+        "scene_number": 1,
+        "location": "Workshop",
+        "time_of_day": "night",
+        "summary": "Intro",
+        "dialogue": "...",
+        "emotional_beat": "hope",
+        "duration_seconds": 5
+      }
+    ],
+    "duration_estimate_seconds": 60
+  },
+  "character_sheets": [
+    {
+      "character_name": "Leo",
+      "style": "cinematic_realism",
+      "front_view_prompt": "front",
+      "side_view_prompt": "side",
+      "back_view_prompt": "back",
+      "expression_prompts": {
+        "happy": "..."
+      },
+      "consistency_keywords": [
+        "bright"
+      ]
+    }
+  ],
+  "style_guide": "# Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n",
+  "shots": [
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    }
+  ],
+  "video_prompts": [
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    },
+    {
+      "shot_id": 1,
+      "scene": 1,
+      "second": 1,
+      "camera_angle": "medium",
+      "lighting": "natural",
+      "action_description": "Leo paints",
+      "prompt": "paint prompt",
+      "video_prompt": "paint prompt\n\nStyle: # Style Guide - cinematic_realism\n\nCinematic Realism: Photorealistic, 35mm film look, shallow depth of field, natural lighting, film grain, 24fps, anamorphic lens flares, color graded with teal-orange palette, ultra-detailed textures, ray-traced global illumination.\n\n## Characters\n- Leo: A child\n\n## Visual Consistency Rules\n- Maintain exact same character proportions across all shots\n- Use consistent color palette (refer to character sheet)\n- Keep lighting direction consistent within scenes\n- Apply same post-processing grade across entire video\n"
+    }
+  ],
+  "generated_at": "2026-07-05T15:40:33.260793"
+}

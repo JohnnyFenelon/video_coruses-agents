@@ -1,0 +1,34 @@
+{
+  "module_title": "Intro",
+  "duration_minutes": 45,
+  "sections": [
+    {
+      "title": "Overview",
+      "duration_minutes": 15,
+      "key_points": [
+        "Overview of Web development basics"
+      ]
+    },
+    {
+      "title": "Examples",
+      "duration_minutes": 15,
+      "key_points": [
+        "Apply the concept"
+      ]
+    },
+    {
+      "title": "Exercise",
+      "duration_minutes": 15,
+      "key_points": [
+        "Practice independently"
+      ]
+    }
+  ],
+  "activities": [
+    "Review the main concepts",
+    "Complete a short guided exercise"
+  ],
+  "resources": [
+    "https://example.com/reference"
+  ]
+}
